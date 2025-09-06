@@ -1,7 +1,5 @@
-# Archivos temporales de Visual Studio
 .vs/
 *.vsidx
 *.vscode/
 bin/
 obj/
-
